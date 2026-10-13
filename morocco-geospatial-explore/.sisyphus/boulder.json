@@ -1,0 +1,23 @@
+{
+  "active_plan": "/Users/yusef/projects/datasccience/morocco-geospatial-explore/.sisyphus/plans/morocco-geospatial-explore.md",
+  "started_at": "2026-09-10T13:47:51.984Z",
+  "session_ids": [
+    "ses_f746cdca7ffeWz17JQPKs5OF8C"
+  ],
+  "session_origins": {
+    "ses_f746cdca7ffeWz17JQPKs5OF8C": "direct"
+  },
+  "plan_name": "morocco-geospatial-explore",
+  "agent": "atlas",
+  "task_sessions": {
+    "todo:1": {
+      "task_key": "todo:1",
+      "task_label": "1",
+      "task_title": "Env setup with uv + pinned geo stack + README skeleton",
+      "session_id": "ses_f746b4994ffeYW64r4fAX5YCwv",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-09-10T14:21:22.710Z"
+    }
+  }
+}

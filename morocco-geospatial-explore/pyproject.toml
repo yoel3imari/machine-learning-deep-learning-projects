@@ -1,0 +1,13 @@
+[project]
+name = "morocco-geospatial-explore"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "geopandas",
+    "shapely>=2",
+    "pyproj",
+    "folium",
+    "jupyter",
+    "matplotlib",
+    "pandas",
+]
